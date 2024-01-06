@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Rimhammer - Any One Can Skaven</name>
+	<author>SickBoyWI</author>
+	<supportedVersions><li>1.4</li></supportedVersions>
+	<packageId>SickBoyWi.TheEndTimes.SkavenAnyOne</packageId>
+	<description>
+This mod is a patch for the Rimhammer - The End Times - Skaven mod. 
+
+It removes race restrictions on all skaven buildings, and recipes. Therefore, it allows any RimWorld pawn with the required skill and skill level to build skaven stuff, or complete skaven recipes. Also allows non skaven to wear skaven apparel, and makes all weapons weildable by any one.
+
+If you'd like to speed up the process of release, please consider supporting me on Patreon. The more support I get, the more motivated I will be to create more races/factions. https://www.patreon.com/SickBoyWI	
+
+Buy me a coffee if you'd prefer to support me that way: https://ko-fi.com/sickboywi
+	</description>
+</ModMetaData>

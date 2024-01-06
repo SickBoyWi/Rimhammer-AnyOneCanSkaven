@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Rimhammer - The End Times - Skaven</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_HornedAlien"]/alienRace/raceRestriction/recipeList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_HornedAlien"]/alienRace/raceRestriction/buildingList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_HornedAlien"]/alienRace/raceRestriction/apparelList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_MoulderAlien"]/alienRace/raceRestriction/recipeList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_MoulderAlien"]/alienRace/raceRestriction/buildingList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_MoulderAlien"]/alienRace/raceRestriction/apparelList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_SkavenAlien"]/alienRace/raceRestriction/recipeList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_SkavenAlien"]/alienRace/raceRestriction/buildingList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_SkavenAlien"]/alienRace/raceRestriction/apparelList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_StormAlien"]/alienRace/raceRestriction/recipeList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_StormAlien"]/alienRace/raceRestriction/buildingList</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>//AlienRace.ThingDef_AlienRace[defName = "RH_TET_Skaven_StormAlien"]/alienRace/raceRestriction/apparelList</xpath>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+	
+</Patch>
