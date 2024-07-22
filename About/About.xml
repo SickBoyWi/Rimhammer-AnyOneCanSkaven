@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Rimhammer - Any One Can Skaven</name>
 	<author>SickBoyWI</author>
-	<supportedVersions><li>1.4</li></supportedVersions>
+	<supportedVersions><li>1.4</li><li>1.5</li></supportedVersions>
 	<packageId>SickBoyWi.TheEndTimes.SkavenAnyOne</packageId>
 	<description>
 This mod is a patch for the Rimhammer - The End Times - Skaven mod. 
